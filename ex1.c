@@ -1,4 +1,5 @@
-#include <stdio.h>
+
+#include<stdio.h>
 
 void input(int *p, int N);
 void output(int *p, int N);
