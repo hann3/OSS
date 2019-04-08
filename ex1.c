@@ -1,4 +1,4 @@
-
+//this is test
 #include<stdio.h>
 
 void input(int *p, int N);
