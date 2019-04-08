@@ -15,7 +15,7 @@ int main()
 	input(y, N);
 	
 	scanf("%d", &k);	
-	
+	printf("This is sample");
 	if (M < N)
 	{
 		for (i = 0; i < M; i += k)
@@ -28,7 +28,7 @@ int main()
 			output((y+i), k);
 	}
 	else
-	{
+{
 		for (i = 0; i < N; i += k)
 		{		
 			output((x + i), k);
